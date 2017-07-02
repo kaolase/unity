@@ -1,0 +1,6 @@
+E:\新建文件夹 (2)\song\song\bin\Debug\song.exe.config
+E:\新建文件夹 (2)\song\song\bin\Debug\song.exe
+E:\新建文件夹 (2)\song\song\bin\Debug\song.pdb
+E:\新建文件夹 (2)\song\song\obj\Debug\song.csprojResolveAssemblyReference.cache
+E:\新建文件夹 (2)\song\song\obj\Debug\song.exe
+E:\新建文件夹 (2)\song\song\obj\Debug\song.pdb
